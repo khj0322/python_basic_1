@@ -20,7 +20,7 @@ def plot_matplotlib(): #Stremlit 문법
     # Labeling axes and title
     ax.set_xlabel("year")
     ax.set_ylabel("lifeExp")
-    ax.set_title("Categorical Bar Plot")
+    ax.set_title"year vs. lifeExp")
     
     st.pyplot(fig) #대시보드에 출력
 
